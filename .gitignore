@@ -1,6 +1,2 @@
-# Project documentation (including plans, specifications, and generated reports)
-
-!.gitignore
-
-# Working documents
+# Working documents (plans, specifications, and generated reports)
 /docs/
