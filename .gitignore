@@ -1,0 +1,4 @@
+# Project documentation (including plans, specifications, and generated reports)
+*.md
+**/*.md
+!.gitignore
